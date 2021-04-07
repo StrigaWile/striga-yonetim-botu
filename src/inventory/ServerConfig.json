@@ -1,0 +1,55 @@
+{
+
+"Roller": {
+"müzisyen": "",
+"yazar": "",
+"şair": "",
+"vokal": "",
+"batarist": "",
+"piyanist": "",
+"beatboxer": "",
+"telliçalgılar": "",
+"ressam": "",
+"tasarım": "",
+"yazılımcı": "",
+"voiceaktor": ""
+},
+
+"yetkilirolleri": {
+
+"üstyetki3": "",
+"üstyetki2": "",
+"üstyetki1": "",
+
+"ortayetki3": "",
+"ortayetki2": "",
+"ortayetki1": "",
+
+"altyetki3": "",
+"altyetki2": "",
+"altyetki1": "",
+
+"RegisterRole": "",
+"BanRole": "",
+"JailRole": "",
+"MuteRole": "",
+"VMuteRole": "",
+"AbilityRole": "",
+"TransporterRole": ""
+
+},
+
+"Staff": {
+"Yetkili": ["yetkili rolü", "yetkili rolü"]    
+},
+
+"Renk": {
+"mavi": "#56abdb",
+"kirmizi": "#880b0b",
+"mor": "#6e3daa",
+"yesil": "#3daa45",
+"Ozel1": "#ffc465",
+"Ozel2": "#65e6ff",
+"Ozel3": "#01ff7c"
+}
+}
